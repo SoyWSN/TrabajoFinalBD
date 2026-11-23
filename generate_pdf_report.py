@@ -167,7 +167,7 @@ def build_pdf(filename: str):
         [Paragraph("<b>Integrantes:</b>", table_cell), Paragraph("Equipo Investigador de Minería de Datos", table_cell)],
         [Paragraph("<b>Grupo / Período:</b>", table_cell), Paragraph("Grupo Académico 2026", table_cell)],
         [Paragraph("<b>Fecha de Entrega:</b>", table_cell), Paragraph("Noviembre 2026", table_cell)],
-        [Paragraph("<b>Repositorio GitHub:</b>", table_cell), Paragraph("https://github.com/oskar/TrabajoFinalBD (Público)", table_cell)]
+        [Paragraph("<b>Repositorio GitHub:</b>", table_cell), Paragraph("https://github.com/SoyWSN/TrabajoFinalBD (Público)", table_cell)]
     ]
     t_meta = Table(meta_table_data, colWidths=[130, 320])
     t_meta.setStyle(TableStyle([

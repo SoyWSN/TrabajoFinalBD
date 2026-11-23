@@ -154,7 +154,7 @@ TrabajoFinalBD/
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/oskar/TrabajoFinalBD.git
+git clone https://github.com/SoyWSN/TrabajoFinalBD.git
 cd TrabajoFinalBD
 ```
 
